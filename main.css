@@ -15,7 +15,7 @@ body{
 	width: 150px;
 	height: 300px;
 	z-index: 5;
-	background-image: url(./img/banner.png);
+/* 	background-image: url(./img/banner.png); */
 }
 .header {
 	background-color: #111;
@@ -489,7 +489,7 @@ font-size:12px;
 	cursor:pointer;
 	}
 	.logo {
-	background-image: url(./img/logo.svg);
+/* 	background-image: url(./img/logo.svg); */
     height: 30px;
     width: 75px;
     margin: 15px auto;
